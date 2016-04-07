@@ -1,0 +1,20 @@
+{
+  "name": "webpack-basics",
+  "version": "1.0.0",
+  "description": "A webpack simple get started project",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^1.12.14",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "scripts": {
+    "test": "",
+    "dev": "webpack-dev-server"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Alexandre BODIN <bodin.alex@gmail.com>",
+  "license": "MIT"
+}
